@@ -1,10 +1,10 @@
-# Youtube-Downloader
+# MusicFromYoutube
 
 ## Setup
 The following steps should help you source the required codec binaries and also set up a Python virtual environment from which this script can run within:
-1. Clone this repo with: ```git clone [url]```
+1. Clone this repo with: ```git clone https://github.com/chr1s-b/MusicFromYoutube.git```
 
-2. Enter directory: ```cd [repo name]```
+2. Enter directory: ```cd MusicFromYoutube```
 
 3. Create virtual environment: ```python -m venv venv```
 
