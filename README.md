@@ -25,3 +25,6 @@ The following binaries are required and can be found easily after searching for 
 ## Program Use
 You can run this script from the command line within a virtual environment, or if the required library is installed globally it can also be double-clicked. If the script is run without arguments, then it will prompt for a video ID. Alternatively, you can provide a video ID as an argument when running the program from the command line. E.g.
 ```python main.py mYVIdEoiDxx```
+
+### Troubleshooting
+If the program fails, please first ensure the video ID is correct. If the error persists, ensure you are importing the latest version of `youtube-dl` by running `pip install youtube-dl --upgrade`
